@@ -1,22 +1,23 @@
 {
-  "name": "lambdaschoolprecourse",
+  "name": "precourseForML",
   "version": "1.0.0",
-  "description": "This repo contains the instruction material and assignments for Lambda School's `Web Dev 101 Mini Bootcamp`.",
+  "description": "This repo contains solutions in BuckleScript for Lambda School's `Web Dev 101 Mini Bootcamp`.",
   "main": "index.js",
   "scripts": {
     "test": "eslint Lesson09-JS-VI/homework/homework.js Lesson08-JS-V/homework/homework.js Lesson07-JS-IV/homework/homework.js Lesson06-JS-III/homework/homework.js  Lesson05-JS-II/homework/homework.js Lesson04-JS-I/homework/homework.js && jest"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lambdaschool/precourse.git"
+    "url": "git+https://github.com/wlharvey4/Precourse-BuckleScript.git"
   },
-  "author": "Daniel Frehner and Ben Nelson, Lambda School",
+  "author": "Daniel Frehner, Ben Nelson, wlharvey4, Lambda School",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lambdaschool/precourse/issues"
+    "url": "https://github.com/wlharvey4/Precourse-BuckleScript/issues"
   },
-  "homepage": "https://github.com/lambdaschool/precourse#readme",
+  "homepage": "https://github.com/wlharvey4/Precourse-BuckleScript#readme"
   "devDependencies": {
+    "bs-platform": "^3.0.0",
     "eslint": "^4.13.1",
     "jest": "^22.0.3"
   }
